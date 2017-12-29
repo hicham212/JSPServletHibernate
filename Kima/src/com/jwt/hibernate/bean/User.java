@@ -1,6 +1,8 @@
 package com.jwt.hibernate.bean;
 
 public class User {
+	
+	
 	private int id;
 	private String userName;
 	private String password1;
@@ -8,8 +10,6 @@ public class User {
 	private String phone;
 	private String city;
 
-	
-	
 	
 	
 	public User() { 
